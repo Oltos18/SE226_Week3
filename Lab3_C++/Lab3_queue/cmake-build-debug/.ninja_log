@@ -1,0 +1,8 @@
+# ninja log v5
+4	102	7012629899543687	build.ninja	9a6a589b962f74a9
+2	256	7011168372025016	CMakeFiles/Lab3_queue.dir/lab3.cpp.obj	7b6fc5c8d5b94ff8
+256	339	7011168372835199	Lab3_queue.exe	d510c58fd879c7f
+2	253	7012630792312183	CMakeFiles/Lab3_queue.dir/lab3.cpp.obj	7b6fc5c8d5b94ff8
+254	338	7012630793131408	Lab3_queue.exe	d510c58fd879c7f
+2	253	7012631176788355	CMakeFiles/Lab3_queue.dir/lab3.cpp.obj	7b6fc5c8d5b94ff8
+254	335	7012631177568532	Lab3_queue.exe	d510c58fd879c7f
